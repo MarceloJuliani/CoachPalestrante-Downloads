@@ -2,17 +2,18 @@
 
 Instaladores oficiais para Windows e Android.
 
-## Versão 0.0.22 — Correção do atualizador Windows
+## Versão 0.0.23 — Perguntas por sessão
 
-O atualizador usa um arquivo exclusivo por tentativa, evitando a falha EPERM na
-renomeação do EXE. Há novas tentativas para bloqueios temporários no Windows.
+Na primeira sessão, aparecem as cinco perguntas de abertura. Da segunda em diante,
+aparece somente “Quais foram os seus ganhos?”, com espaço amplo para responder.
+Respostas anteriores e as correções do atualizador Windows estão preservadas.
 
 **Para corrigir o atualizador antigo, feche o aplicativo e execute manualmente o
-instalador 0.0.22 uma vez sobre a instalação atual. Não desinstale nem apague dados.**
+instalador 0.0.23 uma vez sobre a instalação atual. Não desinstale nem apague dados.**
 
-- [Instalador Windows x64 (.exe)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.22/Marcelo.Juliani.Coach.Setup.0.0.22.exe)
-- [Instalador Android (.apk)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.22/Marcelo.Juliani.Coach.0.0.22-debug.apk)
-- [Verificações SHA-256](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.22/SHA256SUMS.txt)
+- [Instalador Windows x64 (.exe)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.23/Marcelo.Juliani.Coach.Setup.0.0.23.exe)
+- [Instalador Android (.apk)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.23/Marcelo.Juliani.Coach.0.0.23-debug.apk)
+- [Verificações SHA-256](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.23/SHA256SUMS.txt)
 - [Todas as versões](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases)
 
 Acesse também [o sistema web](https://app.marcelojuliani.com.br).

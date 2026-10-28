@@ -2,20 +2,23 @@
 
 Instaladores oficiais para Windows e Android.
 
-## Versão 0.0.26 — Importação de relatórios CIS
+## Versão 0.0.27 — Coachees nas avaliações e na importação
 
-Em **Perfil Comportamental → CIS Assessment → Importar relatórios CIS**, selecione
-os PDFs exportados do [painel CIS](https://cisassessment.app/analyst) e confirme o
-coachee de cada arquivo. O documento original é preservado. O sistema identifica
-PDFs já importados, permite corrigir vínculos e oferece visualização e download
-privados para o coach responsável. Não cria novos clientes nem modifica sessões.
+Corrige as listas de coachees em **Nova avaliação** e **Importar relatórios CIS**.
+Os cadastros são buscados diretamente do perfil autenticado. A nova avaliação
+mostra somente quem ainda não tem relatório concluído ou PDF CIS importado;
+preenchimentos em andamento podem ser retomados. A importação permite vincular
+os PDFs aos coachees do perfil, preservando seu histórico.
 
-**Requer atualizar a API do VPS para 0.0.26**, com `cisReportImport=true`.
-Veja as [instruções de ativação](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.26/ATIVAR-NO-VPS.txt).
+Se o carregamento falhar, os campos mostram o erro e permitem tentar novamente.
+Nenhum cadastro, relatório ou sessão precisa ser recriado.
 
-- [Instalador Windows x64 (.exe)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.26/Marcelo.Juliani.Coach.Setup.0.0.26.exe)
-- [Instalador Android (.apk)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.26/Marcelo.Juliani.Coach.0.0.26-debug.apk)
-- [Verificações SHA-256](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.26/SHA256SUMS.txt)
+**Requer atualizar a API do VPS para 0.0.27**.
+Veja as [instruções de ativação](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.27/ATIVAR-NO-VPS.txt).
+
+- [Instalador Windows x64 (.exe)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.27/Marcelo.Juliani.Coach.Setup.0.0.27.exe)
+- [Instalador Android (.apk)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.27/Marcelo.Juliani.Coach.0.0.27-debug.apk)
+- [Verificações SHA-256](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.27/SHA256SUMS.txt)
 - [Todas as versões](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases)
 
 Instale sobre a versão atual. Não desinstale nem apague dados. O APK mantém a

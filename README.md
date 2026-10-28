@@ -2,27 +2,28 @@
 
 Instaladores oficiais para Windows e Android.
 
-## Versão 0.0.25 — Perfil Comportamental MJ
+## Versão 0.0.26 — Importação de relatórios CIS
 
-Novo questionário de autopercepção com aplicação por link individual ou dentro
-da sessão de coaching. Inclui respostas salvas por etapas, gráficos comparativos,
-devolutiva, plano de desenvolvimento e relatório para imprimir ou salvar em PDF.
-Cada coach acessa somente suas avaliações. As anotações privadas ficam fora do
-relatório do coachee; PDFs anteriores são preservados.
+Em **Perfil Comportamental → CIS Assessment → Importar relatórios CIS**, selecione
+os PDFs exportados do [painel CIS](https://cisassessment.app/analyst) e confirme o
+coachee de cada arquivo. O documento original é preservado. O sistema identifica
+PDFs já importados, permite corrigir vínculos e oferece visualização e download
+privados para o coach responsável. Não cria novos clientes nem modifica sessões.
 
-O instrumento tem perguntas e pontuação próprias para apoiar o coaching. Não é
-o teste CIS Assessment e não tem validação psicométrica ou finalidade diagnóstica.
+**Requer atualizar a API do VPS para 0.0.26**, com `cisReportImport=true`.
+Veja as [instruções de ativação](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.26/ATIVAR-NO-VPS.txt).
 
-**Para ativar o módulo, atualize também a API do VPS para 0.0.25.**
-Veja as [instruções de ativação](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.25/ATIVAR-NO-VPS.txt).
-
-- [Instalador Windows x64 (.exe)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.25/Marcelo.Juliani.Coach.Setup.0.0.25.exe)
-- [Instalador Android (.apk)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.25/Marcelo.Juliani.Coach.0.0.25-debug.apk)
-- [Verificações SHA-256](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.25/SHA256SUMS.txt)
+- [Instalador Windows x64 (.exe)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.26/Marcelo.Juliani.Coach.Setup.0.0.26.exe)
+- [Instalador Android (.apk)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.26/Marcelo.Juliani.Coach.0.0.26-debug.apk)
+- [Verificações SHA-256](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.26/SHA256SUMS.txt)
 - [Todas as versões](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases)
 
 Instale sobre a versão atual. Não desinstale nem apague dados. O APK mantém a
 assinatura das versões locais anteriores. Aguarde o instalador Windows terminar
 e o aplicativo reabrir antes de usar o atalho.
+
+O questionário MJ continua disponível por link ou durante a sessão. É um
+instrumento próprio de autopercepção para coaching, sem validação psicométrica.
+Os relatórios importados do CIS mantêm sua análise original.
 
 Acesse também [o sistema web](https://app.marcelojuliani.com.br).

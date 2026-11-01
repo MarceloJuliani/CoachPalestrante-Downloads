@@ -1,17 +1,15 @@
 # Marcelo Juliani Coach — Downloads
 
-## Versão 0.0.30 — Atualizações no tablet Android
+## Versão 0.0.31 — Ordem dos campos nos cadastros dinâmicos
 
-O tablet passa a avisar sobre novas versões ao abrir e ao voltar ao aplicativo. O botão **Verificar atualizações** permite consultar manualmente. Atualizar agora baixa e verifica o APK oficial e abre o instalador do Android.
+Em **Editar Cadastro Dinâmico → Campos do Cadastro**, escolha a **Posição** de cada campo ou use as setas. Clique em **Confirmar** para salvar. Também permite mover título e subtítulo. A ordem vale para formulários, prévias, PDFs, portal e CSV, preservando os dados existentes.
 
-**Instale o APK 0.0.30 sobre o aplicativo atual uma vez.** O APK anterior não possui esse atualizador. O Android pode pedir autorização para permitir atualizações deste aplicativo.
-
-- [Tablet Android (.apk)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.30/Marcelo.Juliani.Coach.0.0.30-debug.apk)
-- [Windows x64 (.exe)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.30/Marcelo.Juliani.Coach.Setup.0.0.30.exe)
-- [Verificações SHA-256](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.30/SHA256SUMS.txt)
-- [Instruções do VPS](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.30/ATIVAR-NO-VPS.txt)
+- [Tablet Android (.apk)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.31/Marcelo.Juliani.Coach.0.0.31-debug.apk)
+- [Windows x64 (.exe)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.31/Marcelo.Juliani.Coach.Setup.0.0.31.exe)
+- [Verificações SHA-256](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.31/SHA256SUMS.txt)
+- [Instruções do VPS](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.31/ATIVAR-NO-VPS.txt)
 - [Todas as versões](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases)
 
-Instale sobre a versão atual. A assinatura Android local foi mantida. Não desinstale nem apague os dados.
+Instale sobre a versão atual. A assinatura Android local foi mantida. Não desinstale nem apague os dados. O tablet com versão 0.0.30 ou posterior pode consultar pelo botão **Verificar atualizações**; versões anteriores precisam da instalação manual do APK uma vez.
 
-Acesse também [o sistema web](https://app.marcelojuliani.com.br).
+Acesse também [o sistema web](https://app.marcelojuliani.com.br). Para ativar a mudança no site, atualize o VPS conforme as instruções.

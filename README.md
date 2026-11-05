@@ -1,17 +1,17 @@
 # Marcelo Juliani Coach — Downloads
 
-## Versão 0.0.34 — Certificados de atualização no Android
+## Versão 0.0.35 — Ferramentas dinâmicas nas sessões de coaching
 
-Corrige o falso aviso de assinatura diferente quando o Android 9 ou 10 não retornava os certificados do arquivo pela consulta usada pelo aplicativo. Assinaturas realmente incompatíveis continuam bloqueadas. O APK mantém o certificado do APK 0.0.32 da pasta Coach no Google Drive.
+As ferramentas dos cadastros dinâmicos ativos aparecem na seleção de exercícios de sala das sessões do Processo de Coaching. A lista carrega todas as páginas da biblioteca, incluindo ferramentas além dos primeiros 100 registros. Pesquise pelo título ou pela origem, como **Protocolos**. Os campos personalizados, sua ordem, instruções, anexos, áudios e PDF são preservados.
 
-- [Tablet Android (.apk)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.34/Marcelo.Juliani.Coach.0.0.34-debug.apk)
-- [Windows x64 (.exe)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.34/Marcelo.Juliani.Coach.Setup.0.0.34.exe)
-- [Verificações SHA-256](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.34/SHA256SUMS.txt)
-- [Instruções do VPS](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.34/ATIVAR-NO-VPS.txt)
+- [Tablet Android (.apk)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.35/Marcelo.Juliani.Coach.0.0.35-debug.apk)
+- [Windows x64 (.exe)](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.35/Marcelo.Juliani.Coach.Setup.0.0.35.exe)
+- [Verificações SHA-256](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.35/SHA256SUMS.txt)
+- [Instruções do VPS](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases/download/v0.0.35/ATIVAR-NO-VPS.txt)
 - [Todas as versões](https://github.com/MarceloJuliani/CoachPalestrante-Downloads/releases)
 
-Se o atualizador instalado apresenta esse erro, baixe o APK 0.0.34 e abra o arquivo manualmente em Downloads uma vez. Confirme **Atualizar** no Android, mantendo a instalação e os dados existentes. O código antigo só será substituído após essa instalação. As próximas atualizações usam o leitor corrigido.
+Instale sobre a versão atual. O APK mantém o certificado das versões anteriores do canal público e a correção de leitura de certificados da 0.0.34. Se estiver na 0.0.32 com falso erro de assinatura, baixe o APK 0.0.35 e abra manualmente em Downloads uma vez, confirmando **Atualizar** no Android. Mantenha a instalação e seus dados.
 
-Arquivos antigos obtidos dos artefatos internos do GitHub podem ter outro certificado; uma incompatibilidade real exige diagnóstico. Os menus dinâmicos, ferramentas, anexos e respostas das versões anteriores são preservados.
+Clientes, sessões, fichas preenchidas e anotações privadas continuam restritos ao coach responsável. Nenhum dado precisa ser apagado ou recriado. Arquivos antigos obtidos de artefatos internos do GitHub podem ter outro certificado; uma incompatibilidade real exige diagnóstico.
 
 Acesse também [o sistema web](https://app.marcelojuliani.com.br). Se necessário, atualize o VPS conforme as instruções.
